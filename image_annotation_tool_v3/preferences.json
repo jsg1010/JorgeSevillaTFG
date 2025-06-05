@@ -1,0 +1,7 @@
+{
+  "frame_extraction_interval": 50,
+  "default_model_path": "C:/Users/TFG/Desktop/train/train/crack_detection/yolo11l_pretrained/weights/pretrained.pt",
+  "train_split": 70,
+  "val_split": 20,
+  "test_split": 10
+}
