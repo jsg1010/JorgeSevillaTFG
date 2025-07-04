@@ -1,0 +1,8 @@
+matplotlib
+numpy
+opencv_python
+pandas
+Pillow
+scikit_learn
+torch
+ultralytics
