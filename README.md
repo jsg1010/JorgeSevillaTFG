@@ -54,6 +54,7 @@ pip install -r requirements.txt
 
 ![capture1](https://github.com/user-attachments/assets/4e95c869-aca8-4424-bb07-6f8deeed87ab)
 
+
 ## Author
 Jorge Sevilla Garcia  
 Computer Engineering Degree  
@@ -64,5 +65,6 @@ IMPORTANT!!!
 To dowload the pretrained model, do so from here: https://www.swisstransfer.com/d/5bcb78fa-ce58-4c29-b184-8f63037a3e0c
 
 ![DiagramaClases](https://github.com/user-attachments/assets/c3acfe84-bbff-4f04-87bf-1c7945b89021)
+![capture2](https://github.com/user-attachments/assets/1c7398b5-bf22-4218-aa20-7745b4908f1d)
 
 
