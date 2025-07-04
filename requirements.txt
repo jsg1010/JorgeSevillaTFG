@@ -1,8 +1,8 @@
-matplotlib==3.10.1
-numpy==2.2.5
-opencv_python==4.11.0.86
-pandas==2.2.3
-Pillow==11.2.1
-scikit_learn==1.6.1
-torch==2.6.0
-ultralytics==8.3.113
+matplotlib
+numpy
+opencv_python
+pandas
+Pillow
+scikit_learn
+torch
+ultralytics
